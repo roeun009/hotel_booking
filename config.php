@@ -1,7 +1,7 @@
 <?php
 $servername = "sql301.infinityfree.com"; // check your InfinityFree DB hostname
 $username = "if0_40180102";
-$password = "yourpassword";
+$password = "Roeun009";
 $database = "if0_40180102_hotelcita";
 
 $conn = mysqli_connect($servername, $username, $password, $database);
